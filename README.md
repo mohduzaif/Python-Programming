@@ -46,7 +46,7 @@ Virtual Environments
 
 Web Scraping
 
-NumPy & Pandas basic
+NumPy & Pandas basics
 
 🧑‍💻 Who This Is For
 This repository is ideal for:
@@ -59,11 +59,5 @@ This repository is ideal for:
 
 🧠 Self-learners and coding enthusiasts
 
-🚀 Getting Started
-      Clone the repository:
-          -- git clone https://github.com/your-username/python-concepts-collection.git
-      Navigate to the folder and open Jupyter Notebooks:
-          -- cd python-concepts-collection
-             jupyter notebook
 🧠 Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
